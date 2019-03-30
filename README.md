@@ -6,8 +6,6 @@ In this work, we try to band together adversarial robustness and transfer learni
 * Attacks: FSGM, PGD, Black-Box attacks
 * Transfer Learning Techniques: Weight Sharing, finetuning, 
 
-
-
 Build with
 
 * Python 3.7
