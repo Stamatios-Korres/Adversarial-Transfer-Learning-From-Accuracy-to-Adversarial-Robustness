@@ -8,8 +8,6 @@ In this work, we try to band together adversarial robustness and transfer learni
 
 
 
-
-
 Build with
 
 * Python 3.7
